@@ -1,1 +1,3 @@
-# automl_toxic_comment_class
+# Toxic Comment Classification Challenge
+
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge 
